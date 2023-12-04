@@ -1,4 +1,4 @@
-<img align="center" alt="mariuszniedzielski.pl" width="25%" src="./img/logo-transparent.png" />
+<img align="center" alt="mariuszniedzielski.pl" width="25%" src="./img/logo.png" />
 
 ## Hello there 👋!
 
@@ -64,6 +64,7 @@ and always curious about new solutions.
 
 🌐 My official [portfolio website](https://mariuszniedzielski.pl). Fully responsive website with detailed information
 about myself.
+
 <br />
 <strong>Tech-stack used:</strong>: ReactJS, HTML5, CSS3, Styled
 Components & EmailJS.
@@ -74,6 +75,7 @@ Components & EmailJS.
 ⚽ [what-a-strike](https://what-a-strike.netlify.app). Application displaying up-to-date results and standings of top 5 football leagues in the world. A project created to practice utilizing of JavaScript, along with the usage of Fetch API and BEM Methodology. Automated via the usage of GULP task runner.
 
 Data on this website is powered by [football-data.org](https://www.football-data.org/).
+
 <br />
 <strong>Tech-stack used:</strong>: JavaScript, HTML5, CSS3, SASS.
 <br />
@@ -93,6 +95,7 @@ Data on this website is powered by [coingecko.com](https://www.coingecko.com/).
 
 
 💰 [My Money Mate](https://my-money-mate.netlify.app). Application tracking your incomes and expenses. A demonstration project created to practice utilizing of React JS including React Hooks and Context API. I've also added a backend API using Express and MongoDB, so that made it fullstack MERN application.
+
 <br />
 <strong>Tech-stack used:</strong>: ReactJS, HTML5, CSS3, MongoDB, ExpressJS, NodeJS.
 <br />

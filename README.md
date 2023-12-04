@@ -2,18 +2,18 @@
 
 ## Hello there 👋!
 
-### I'm Mariusz, a <span style="padding: 5px 10px; background-color: #101522; color: #e8aa42; border-radius: 15px">Junior Frontend Developer</span> based in Zielona Góra, Poland.
+### I'm Mariusz, a Junior Frontend Developer based in Zielona Góra, Poland.
 
 ▪️I'm ambitious, determined and communicative
-person. Always do my job with <span style="padding: 5px 15px; background-color: #101522; color: #e8aa42; border-radius: 15px">passion!</span>
+person. Always do my job with passion!
 <br/>
 <br/>
-▪️I appreciate a great sense of humor, yet <span style="padding: 5px 15px; background-color: #101522; color: #e8aa42; border-radius: 15px">professionalism</span> in
+▪️I appreciate a great sense of humor, yet professionalism in
 the team I work with. 😁
 <br/>
 <br/>
 ▪️Currently I'm improving my skills in web
-development. Working especially with <span style="padding: 5px 15px; background-color: #101522; color: #e8aa42; border-radius: 15px">ReactJS</span> library
+development. Working especially with ReactJS library
 brings me the most fun. 
 <br/>
 <br/>
@@ -21,8 +21,7 @@ brings me the most fun.
 and always curious about new solutions.
 <br/>
 <br/>
-⭐⭐⭐ <span style="padding: 10px 20px; background-color: #101522; color: #e8aa42; border-radius: 15px">If you want to learn more about me, then have a look at my [portfolio website](https://mariuszniedzielski.pl). Cheers!</span>
- ⭐⭐⭐
+⭐⭐⭐ If you want to learn more about me, then have a look at my [portfolio website](https://mariuszniedzielski.pl). Cheers! ⭐⭐⭐
 <br/>
 <br/>
 

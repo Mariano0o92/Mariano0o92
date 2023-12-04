@@ -1,5 +1,5 @@
 <p align=right>
-<img align="center" alt="mariuszniedzielski.pl" width="25%" src="./img/logo.png" />
+<img align="center" alt="mariuszniedzielski.pl" width="20%" src="./img/logo-transparent.png" />
 </p>
 
 ## Hello there 👋!

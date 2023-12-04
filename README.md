@@ -1,4 +1,6 @@
+<p align=right>
 <img align="center" alt="mariuszniedzielski.pl" width="25%" src="./img/logo.png" />
+</p>
 
 ## Hello there 👋!
 

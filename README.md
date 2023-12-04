@@ -1,4 +1,4 @@
-<img align="center" alt="mariuszniedzielski.pl" width="100%" src="./img/logo-transparent.png" />
+<img align="center" alt="mariuszniedzielski.pl" width="25%" src="./img/logo-transparent.png" />
 
 ## Hello there 👋!
 
@@ -25,16 +25,16 @@ and always curious about new solutions.
  ⭐⭐⭐
 <br/>
 <br/>
-<h2 style="text-align: center; text-transform: uppercase; color: #e8aa42">Let's work together!</h2>
+
+## Let's work together!
 
 
 
 ### You can contact me via:
 
-<img align="left" alt="mniedzielski.pl" width="20px" src="./img/globe.svg" />[portfolio website](https://mariuszniedzielski.pl)
-<img align="left" alt="Niedzielski-Mariusz | LinkedIn" width="20px" src="./img/linkedinLogo.svg" />[linkedin](https://www.linkedin.com/in/mariusz-niedzielski-226868162/)
-<img align="left" alt="Niedzielski-Mariusz | GitHub" width="20px" src="./img/githubLogo.svg" />[GitHub](https://github.com/Mariano0o92)
-<img align="left" alt="Niedzielski-Mariusz | Gmail" width="20px" src="./img/gmailLogo.svg" />[Gmail](mailto:mariuszn13@gmail.com)
+[<img align="left" alt="mniedzielski.pl" width="26px" src="./img/globe.svg" />](https://mariuszniedzielski.pl)
+[<img align="left" alt="Niedzielski-Mariusz | LinkedIn" width="26px" src="./img/linkedinLogo.svg" />](https://www.linkedin.com/in/mariusz-niedzielski-226868162/)
+[<img align="left" alt="Niedzielski-Mariusz | Gmail" width="26px" src="./img/gmailLogo.svg" />](mailto:mariuszn13@gmail.com)
 
 <br/>
 
@@ -64,7 +64,8 @@ and always curious about new solutions.
 
 🌐 My official [portfolio website](https://mariuszniedzielski.pl). Fully responsive website with detailed information
 about myself.
-<strong style="padding: 5px 15px; background-color: #101522; color: #e8aa42; border-radius: 15px">Tech-stack used:</strong>: ReactJS, HTML5, CSS3, Styled
+<br />
+<strong>Tech-stack used:</strong>: ReactJS, HTML5, CSS3, Styled
 Components & EmailJS.
 <br />
 
@@ -74,7 +75,7 @@ Components & EmailJS.
 
 Data on this website is powered by [football-data.org](https://www.football-data.org/).
 <br />
-<strong style="padding: 5px 15px; background-color: #101522; color: #e8aa42; border-radius: 15px">Tech-stack used:</strong>: JavaScript, HTML5, CSS3, SASS.
+<strong>Tech-stack used:</strong>: JavaScript, HTML5, CSS3, SASS.
 <br />
 
 #
@@ -85,11 +86,13 @@ Data on this website is powered by [football-data.org](https://www.football-data
 Data on this website is powered by [coingecko.com](https://www.coingecko.com/).
 
 <br />
-<strong style="padding: 5px 15px; background-color: #101522; color: #e8aa42; border-radius: 15px">Tech-stack used:</strong>: JavaScript, HTML5, CSS3, SASS.
+<strong>Tech-stack used:</strong>: JavaScript, HTML5, CSS3, SASS.
 <br />
 
 #
 
 
 💰 [My Money Mate](https://my-money-mate.netlify.app). Application tracking your incomes and expenses. A demonstration project created to practice utilizing of React JS including React Hooks and Context API. I've also added a backend API using Express and MongoDB, so that made it fullstack MERN application.
-<strong style="padding: 5px 15px; background-color: #101522; color: #e8aa42; border-radius: 15px">Tech-stack used:</strong>: ReactJS, HTML5, CSS3, MongoDB, ExpressJS, NodeJS.
+<br />
+<strong>Tech-stack used:</strong>: ReactJS, HTML5, CSS3, MongoDB, ExpressJS, NodeJS.
+<br />

@@ -35,7 +35,7 @@ and always curious about new solutions.
 
 [<img align="left" alt="mniedzielski.pl" width="26px" src="./img/globe.svg" />](https://mariuszniedzielski.pl)
 [<img align="left" alt="Niedzielski-Mariusz | LinkedIn" width="26px" src="./img/linkedinLogo.svg" />](https://www.linkedin.com/in/mariusz-niedzielski-226868162/)
-[<img align="left" alt="Niedzielski-Mariusz | Gmail" width="26px" src="./img/gmailLogo.svg" />](mailto:mariuszn13@gmail.com)
+[<img align="left" alt="Niedzielski-Mariusz | Gmail" width="26px" src="./img/gmailLogo.svg" />](mailto:mariuszniedzielski@mailfence.com)
 
 <br/>
 

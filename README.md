@@ -48,6 +48,7 @@ and always curious about new solutions.
 <img align="left" alt="Sass" width="26px" src="./img/sassLogo.svg" />
 <img align="left" alt="JavaScript" width="26px" src="./img/javascriptLogo.svg" />
 <img align="left" alt="React" width="26px" src="./img/reactLogo.svg" />
+<img align="left" alt="TypeScript" width="26px" src="./img/typescriptLogo.svg" />
 <img align="left" alt="Bootstrap" width="26px" src="./img/bootstrapLogo.svg" />
 <img align="left" alt="GitHub" width="26px" src="./img/githubLogo.svg" />
 <img align="left" alt="NPM" width="26px" src="./img/npmLogo.svg" />

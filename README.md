@@ -19,7 +19,7 @@ development. Working especially with ReactJS library
 brings me the most fun. 
 <br/>
 <br/>
-▪️I’m no stranger to demanding tasks and challenges and
+▪️I’m no stranger to demanding tasks and challenges
 and always curious about new solutions.
 <br/>
 <br/>
